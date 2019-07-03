@@ -1,6 +1,7 @@
 # The V Programming Language 0.1.x
 
 [![Build Status](https://dev.azure.com/alexander0785/vlang/_apis/build/status/vlang-CI?branchName=master)](https://dev.azure.com/alexander0785/vlang/_build/latest?definitionId=1&branchName=master) [![Build Status](https://travis-ci.org/vlang/v.svg?branch=master)](https://travis-ci.org/vlang/v)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjs3725831%2Fv.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjs3725831%2Fv?ref=badge_shield)
 
 https://vlang.io
 
@@ -150,3 +151,7 @@ sudo pacman -S glfw-x11 curl freetype2
 ```
 
 glfw and libcurl dependencies will be removed soon.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjs3725831%2Fv.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjs3725831%2Fv?ref=badge_large)
